@@ -4,9 +4,11 @@ A simple typing trainer with command line interface.
 
 Before using you need install Python 3.
 
-## Using:
+Statistics are saved to the statistisc.csv file.
 
-    python type-me.py
+## Using
+
+    Python type-me.py
 
 or
 
