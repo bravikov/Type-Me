@@ -16,16 +16,18 @@ or
 
 ## Example
 
-    $ python3 type-me.py
-    Press Enter to start.
+    $ python3 type-me.py 
+    Press Enter to start. 
 
-    But I didn't stay long. Two days later, Sue and I got the bus to Bayou La Batre, where Bubba's parents lived, and I explained to Bubba's daddy about the shrimp business that Bubba and I planned to start after we came out of the army. He listened, and he was very interested. And the next day he took Sue and me out in his little boat, to look for a good place to start the shrimp business.
+    But all this time, I was thinking about Jenny Curran. Just before I left the hospital in Danang, I had a letter from her. She was now playing in a group called The Broken Eggs, and they played two nights each week at a place called the Hodaddy Club near Harvard University. Now that I was free from the army, I just wanted to go and see her. So I got a ticket for Boston, instead of Mobile.
 
-    But I didn't stay long. Two days later, Sue and I got the bus to Bayou La Batre, where Bubba's parents lived, and I explained to Bubba's daddy about the shrimp business that Bubba and I planned to start after we came out of the army. He listened, and he was very interested. And the next day he took Sue and me out in his little boat, to look for a good place to srate the shirmp business.
+    But all this time, I was thinking about Jenny Curran. Just before I left the hospital in Danang, I had a letter from her. She was now playing in a group called The Borken Eggs, and they played two nights each week at a place called the Hodaddy Club near Harvard University. Now that I was free from the army, I just wanted to go and see her. So I got a ticket for Boston, instead of Mobile.
 
+    Typo: "Borken" instead of "Broken"
     Typos: Yes.
-    Characters per minute: 225.00823246701435.
-    Time: 103.729538 sec.
-    Number of characters: 389.
+    Characters per minute: 229.71935892748624.
+    Duration: 01m 41s.
+    Number of characters: 390.
 
     Press Enter to start.
+

@@ -52,7 +52,7 @@ def save_report_to_csv(report: Report):
 def print_report(report: Report):
     report_text = 'Typos: {}.\n'\
                   'Characters per minute: {}.\n'\
-                  'Duration: {} sec.\n'\
+                  'Duration: {}.\n'\
                   'Number of characters: {}.\n'
 
     print(report_text.format(
