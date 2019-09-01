@@ -63,6 +63,14 @@ def print_report(report: Report):
     ))
 
 
+def typos(origin_text, input_text):
+    origin_words = origin_text.split()
+    input_words = input_text.split()
+    for origin_word, input_word in zip(origin_words, input_words):
+        if origin_word != input_word:
+            print('Typo: "{}" instead of "{}"'.format(input_word, origin_word))
+
+
 def test(origin_text):
     input('Press Enter to start.')
     print()
@@ -74,6 +82,7 @@ def test(origin_text):
     end_time = datetime.datetime.now()
     report = Report(start_time, end_time, len(input_text),
                     origin_text != input_text)
+    typos(origin_text, input_text)
     print_report(report)
     save_report_to_csv(report)
 
